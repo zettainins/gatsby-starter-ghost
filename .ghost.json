@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://kinara-trades.herokuapp.com/",
+    "contentApiKey": "ac62010851f2e41a8a2600cf9d"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://kinara-trades.herokuapp.com/",
+    "contentApiKey": "ac62010851f2e41a8a2600cf9d"
   }
 }

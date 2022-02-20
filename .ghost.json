@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://blog-hasieraone.herokuapp.com",
-    "contentApiKey": "ac62010851f2e41a8a2600cf9d"
+    "contentApiKey": "4f080370ea36bb32c01e441918"
   },
   "production": {
     "apiUrl": "https://blog-hasieraone.herokuapp.com",
-    "contentApiKey": "ac62010851f2e41a8a2600cf9d"
+    "contentApiKey": "4f080370ea36bb32c01e441918"
   }
 }

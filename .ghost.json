@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://kinara-trades.herokuapp.com/",
+    "apiUrl": "https://blog-hasieraone.herokuapp.com/",
     "contentApiKey": "ac62010851f2e41a8a2600cf9d"
   },
   "production": {
-    "apiUrl": "https://kinara-trades.herokuapp.com/",
+    "apiUrl": "https://blog-hasieraone.herokuapp.com/",
     "contentApiKey": "ac62010851f2e41a8a2600cf9d"
   }
 }
